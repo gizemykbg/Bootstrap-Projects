@@ -10,6 +10,6 @@ Bootstrap work projects
 
 ### 🧰 Toolbox
 
-- [Bootstrap] [Bootstrap]
+- [Bootstrap] 
 
 [bootstrap]: https://getbootstrap.com/docs/5.1/getting-started/introduction/
