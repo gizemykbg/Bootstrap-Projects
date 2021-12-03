@@ -126,3 +126,35 @@ body {
   width: 600px;
   height: 600px;
 }
+.card-form {
+  width: 457px;
+  height: 205px;
+}
+.border-icon {
+  width: 47px;
+  height: 45.94px;
+  background: #0dac1f;
+  border-radius: 10px;
+}
+.menu-card {
+  width: 300px;
+  height: 390px;
+  background: #ffffff;
+  box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.input-el {
+  width: 460px;
+  height: 68px;
+  background: #ffffff;
+}
+.input-btn {
+  width: 145px;
+  height: 48px;
+  background: #0dac1f;
+}
+.icon-container {
+  width: 31px;
+  height: 31px;
+  background: #e4ffe4;
+}
