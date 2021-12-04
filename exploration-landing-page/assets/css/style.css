@@ -1,0 +1,211 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Sitara;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.bg {
+    background: linear-gradient(180deg, rgba(200, 4, 41, 0.06) 0%, rgba(200, 4, 41, 0) 100%);
+    height: 100%;
+    background-size: cover;
+}
+
+.btn-agenda {
+    color: #fff;
+    background-color: #C80429;
+    border-radius: 100px;
+    padding: 12px 24px;
+    font-family: Baloo Chettan 2;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.nav-text {
+    color: #868686;
+    text-shadow: 1px 0px 1px #CCCCCC, 0px 1px 1px #EEEEEE, 2px 1px 1px #CCCCCC, 1px 2px 1px #EEEEEE, 3px 2px 1px #CCCCCC, 2px 3px 1px #EEEEEE, 2px 2px 2px rgba(206,89,55,0);
+    font-size: 18px;
+}
+
+.nav-active {
+    color: #C80429;
+    font-weight: bold;
+}
+
+.border-active {
+    border-bottom: 2px solid #C80429;
+}
+
+.hero-h1 {
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 68px;
+    line-height: 120%;
+    color: #121212;
+}
+
+.hero-p {
+    color: #868686
+}
+
+.hero-icon {
+    color: #121212
+}
+
+.partner-bg {
+    background-color: #F7F7F7;
+}
+
+.agenda-detail .card-title {
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #121212;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.list-border-0 li {
+    border: 0;
+}
+.agenda-detail .card-text {
+    font-size: 24px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #868686;
+}
+
+.card-radius {
+    border: 1px solid #DEDEDE;
+    border-radius: 24px !important;
+}
+
+.bg-two {
+    background: linear-gradient(180deg, rgba(200, 4, 41, 0.06) 0%, rgba(200, 4, 41, 0) 100%);
+    height: auto;
+    background-size: cover;
+}
+
+.btn-left {
+    color: #C80429;
+    font-family: Baloo Chettan 2;
+    font-style: normal;
+    font-weight: bold;
+    padding: 10px 16px;
+    background: #FFFFFF;
+    box-shadow: 0px 24px 24px rgba(68, 68, 68, 0.12);
+    border-radius: 100px;
+}
+.btn-right {
+    color: #FFF;
+    font-family: Baloo Chettan 2;
+    font-style: normal;
+    font-weight: bold;
+    padding: 10px 16px;
+    background: #C80429;
+    box-shadow: 0px 24px 24px rgba(68, 68, 68, 0.12);
+    border-radius: 100px;
+}
+
+.about-h1 {
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 180%;
+}
+
+.about-p {
+    font-size: 16px;
+    line-height: 180%;
+}
+
+.about-text {
+    font-size: 18px;
+    line-height: 180%;
+}
+
+.price-h1 {
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: 0.02em;
+    font-weight: 800;
+}
+
+.price-card-title {
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 180%;
+    color: #121212;
+}
+
+.price-card-title-span {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 180%;
+    color: #121212;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.price-card-text {
+    font-size: 18px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #868686;
+}
+
+.item-text {
+    font-family: Sitara;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 180%;
+    letter-spacing: 0.02em;
+    color: #121212;
+}
+
+.price-value {
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 180%;
+    color: #121212;
+}
+
+.round-custom {
+    border-radius: 24px;
+}
+
+.card>.list-group {
+    border: 0;
+}
+
+.custom-card {
+    background-color: #C80429 !important;
+}
+
+.custom-card li{
+    background-color: #C80429 !important;
+}
+
+.bg-footer {
+    background: #202126;
+    height: auto;
+    background-size: cover;
+    color: #FFF;
+}
+
+.btn-custom {
+    background: #C80429;
+    border-radius: 50px;
+    color:#FFF;
+}
+
+.form-login {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
