@@ -1,15 +1,43 @@
-# Bootstrap-Projects
+# Bootstrap Projects
 
-Bootstrap work projects
+- #### Food Landing Page  [Live On](https://gizemykbg.github.io/Bootstrap-Projects/foodLandingPage/)
 
-### 1.Proje
+![Output](./docs/food-landing-page.gif)
 
-# [⚛️ Live Preview][⚛️ live preview]
+- #### Exploration Landing Page [Live On](https://nejlasahin.me/basic-projects-for-frontend/exploration-landing-page/)
 
-[⚛️ live preview]: https://gizemykbg.github.io/Bootstrap-Projects/foodLandingPage/ "Deployed Site"
+![Output](./docs/exploration-landing-page.gif)
 
-### 🧰 Toolbox
+----
 
-- [Bootstrap] 
+## UI Designer
 
-[bootstrap]: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+| Project               | Designer Name                                               |
+| ------------------ | -------------------------------------------------- |
+| Food Landing Page | Shahriar Sohag |
+| [Exploration Landing Page](https://dribbble.com/shots/16405121-agenda-Online-Event-Website) | [Viola Dwi 🖖](https://dribbble.com/violadwip_)          |
+
+----
+
+## Team Members
+
+| Project               | Name                                               |
+| ------------------ | -------------------------------------------------- |
+| Food Landing Page | [Gizem Yakabağ](https://github.com/gizemykbg) |
+| Exploration Landing Page | [Nejla Şahin](https://github.com/nejlasahin)          |
+
+----
+
+## 🧰 Toolbox
+
+- [HTML]() 
+- [CSS]() 
+- [Bootstrap]() 
+
+----
+
+## License
+
+- [MIT](https://github.com/gizemykbg/Bootstrap-Projects/blob/main/LICENSE) 
+
+
